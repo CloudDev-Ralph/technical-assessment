@@ -1,2 +1,2 @@
-# technical-assessment
-Technical Assessment for Application Developer Role
+# Technical Assessment Submission
+Technical Assessment of Ralph Gerard Magat for Application Developer Role.
