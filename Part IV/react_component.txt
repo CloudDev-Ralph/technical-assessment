@@ -1,0 +1,1 @@
+As I checked, the issue with the component is that it does not have an import for useState and useEffect. This will result for the component not to execute properly since it will require an import for this hooks. The useEffect will not also infinitely loop, since it will only take effect when the count is changed. 
